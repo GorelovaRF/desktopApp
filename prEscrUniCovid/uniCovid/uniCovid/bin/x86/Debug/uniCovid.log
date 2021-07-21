@@ -1,0 +1,18 @@
+Get Installed cultures:
+ Found Culture: Inglés [en]
+ Found Culture: Español (España) [es-ES]
+ Found Culture: Ruso (Rusia) [ru-RU]
+Set culture to default [en]:
+ObjectDataProvider.DataChanged event. fetching culturename property for new culture [Exit]
+uniCovid.exe Information: 0 : Listado abierto
+    DateTime=2021-04-28T17:40:39.1570611Z
+    Timestamp=3567713335907
+uniCovid.exe Information: 0 : Aplicacion cerrada
+    DateTime=2021-04-28T17:40:44.6303811Z
+    Timestamp=3567768069611
+Get Installed cultures:
+ Found Culture: Inglés [en]
+ Found Culture: Español (España) [es-ES]
+ Found Culture: Ruso (Rusia) [ru-RU]
+Set culture to default [en]:
+ObjectDataProvider.DataChanged event. fetching culturename property for new culture [Exit]

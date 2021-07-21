@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище uniCovidDbModelContainer" CdmEntityContainer="uniCovidDbEntities1">
+    <EntitySetMapping Name="prUniDBs">
+      <EntityTypeMapping TypeName="uniCovidDbModel.prUniDB">
+        <MappingFragment StoreEntitySet="prUniDB">
+          <ScalarProperty Name="Provincia" ColumnName="Provincia" />
+          <ScalarProperty Name="Tests_positivos_alumnado" ColumnName="Tests positivos alumnado" />
+          <ScalarProperty Name="Tests_positivos_profesorado" ColumnName="Tests positivos profesorado" />
+          <ScalarProperty Name="Fecha" ColumnName="Fecha" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

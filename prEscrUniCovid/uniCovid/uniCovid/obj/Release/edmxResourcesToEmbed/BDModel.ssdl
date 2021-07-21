@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище uniCovidDbModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="prUniDB">
+    <Key>
+      <PropertyRef Name="Provincia" />
+    </Key>
+    <Property Name="Provincia" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Tests positivos alumnado" Type="int" />
+    <Property Name="Tests positivos profesorado" Type="int" />
+    <Property Name="Fecha" Type="date" />
+  </EntityType>
+  <EntityContainer Name="Хранилище uniCovidDbModelContainer">
+    <EntitySet Name="prUniDB" EntityType="Self.prUniDB" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

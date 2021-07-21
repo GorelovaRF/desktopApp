@@ -1,0 +1,3566 @@
+[
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 7,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 3
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "León",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "León",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 11,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "León",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 16,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 21,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "León",
+    "Tests positivos alumnado": 7,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 9,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 7,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 14,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 10,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 38,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-22",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 9,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 10,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-01",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 8,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-11",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-12-21",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-17",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 2
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-09-18",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-23",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-01",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-07",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "León",
+    "Tests positivos alumnado": 7,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "León",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-11",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 9,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-12",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-13",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 22,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-16",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-17",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-18",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-19",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 10,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-20",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-23",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-24",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-25",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-26",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-27",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 18,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-30",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-12-02",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-03",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-04",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-21",
+    "Provincia": "León",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-22",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-24",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-25",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-28",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-29",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 4,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-09-30",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-02",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 21,
+    "Test positivos profesorado": 5
+  },
+  {
+    "Fecha": "2020-10-05",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-06",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-08",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 7,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-09",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-13",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-14",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-15",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-16",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-19",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-20",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-21",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-23",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-26",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-27",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-28",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 2,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-29",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 1
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 3
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-10-30",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-03",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-04",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-05",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 6,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-06",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 5,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-09",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 3,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-11-10",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "León",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-18",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-09",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-10",
+    "Provincia": "Zamora",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-14",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 1,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-15",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Burgos",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-16",
+    "Provincia": "Salamanca",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-17",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-22",
+    "Provincia": "Ávila",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Palencia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Segovia",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Soria",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  },
+  {
+    "Fecha": "2020-12-23",
+    "Provincia": "Valladolid",
+    "Tests positivos alumnado": 0,
+    "Test positivos profesorado": 0
+  }
+]
